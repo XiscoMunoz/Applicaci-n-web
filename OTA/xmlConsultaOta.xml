@@ -1,0 +1,30 @@
+<Resultado> 
+    <FechaInicio>2021-11-28</FechaInicio> 
+    <FechaSalida>2021-11-29</FechaSalida> 
+    <Hotel>1</Hotel> 
+    <consulta>
+        <hotel>Hotel1</hotel>
+        <tipoHab>IND</tipoHab>
+        <cantidad>3</cantidad>
+        <precio>120</precio>
+    </consulta>
+     <consulta>
+        <hotel>Hotel1</hotel>
+        <tipoHab>JSUI</tipoHab>
+        <precio>100</precio>
+        <cantidad>5</cantidad>
+    </consulta>
+     <consulta>
+        <hotel>Hotel2</hotel>
+        <tipoHab>DBL</tipoHab>
+        <cantidad>2</cantidad>
+        <precio>200</precio>
+    </consulta>
+     <consulta>
+        <hotel>Hotel3</hotel>
+        <tipoHab>DVM</tipoHab>
+        <cantidad>1</cantidad>
+        <precio>300</precio>
+    </consulta>
+
+</Resultado>

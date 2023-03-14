@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<Resultado><FechaInicio>2022-01-28</FechaInicio> 
+<FechaSalida>2022-01-31</FechaSalida> 
+<Hotel>2</Hotel> <consulta><hotel>Hotel2</hotel><tipoHab>DBL</tipoHab><cantidad>5</cantidad><precio>70</precio></consulta><consulta><hotel>Hotel2</hotel><tipoHab>DVM</tipoHab><cantidad>5</cantidad><precio>150</precio></consulta><consulta><hotel>Hotel2</hotel><tipoHab>IND</tipoHab><cantidad>5</cantidad><precio>60</precio></consulta><consulta><hotel>Hotel2</hotel><tipoHab>JSUI</tipoHab><cantidad>5</cantidad><precio>130</precio></consulta><consulta><hotel>Hotel2</hotel><tipoHab>SUI</tipoHab><cantidad>5</cantidad><precio>150</precio></consulta></Resultado>

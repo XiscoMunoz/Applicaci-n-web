@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmlPractica>
+    <tipo></tipo> 
+    <FechaInicio></FechaInicio> 
+    <FechaSalida></FechaSalida>
+    <Hotel></Hotel> 
+    <Personas></Personas>
+    <reserva>
+        <cantPersonas></cantPersonas> 
+        <TipoHab></TipoHab> 
+        <cantidad></cantidad> 
+        <precio></precio>
+    </reserva>
+    <colsulta>
+        <hotel></hotel>
+        <tipoHab></tipoHab>
+        <cantidad></cantidad>
+        <precio></precio>
+    </colsulta>
+    <respuesta></respuesta>
+</xmlPractica>
+
+
